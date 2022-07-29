@@ -14,7 +14,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumthodi</a> to make it public
+Project created by <a href="https://github.com/ameer-kallumthodi">muhammed-nadeem</a> to make it public
     <br>
        | © |
         Reserved |
@@ -70,7 +70,7 @@ bash <(curl -L https://t.ly/tHxh)
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://i.imgur.com/reMlxoc.png)](http://wa.me/+919946432377)
+  [![join](https://i.imgur.com/reMlxoc.png)](http://wa.me/+918086129601)
   <div align="center">
        
   </div>
